@@ -5,3 +5,4 @@
 
 ## AirIQ 
 - Access the website [`here`](https://air-iq.netlify.app/)
+- Check out the app [`here`](https://github.com/Hemanth5603/AirIQ)
