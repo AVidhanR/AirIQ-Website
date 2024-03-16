@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.background-image {
+  background-image: url("./icons/airPollution.png");
+}
+
+.gradient-effect {
+  background-image: linear-gradient(to bottom, #78350f, #92400e);
+}
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
