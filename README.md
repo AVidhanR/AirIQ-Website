@@ -1,7 +1,10 @@
 ## React + Vite + Tailwind CSS
-- `npm install` use this command to install in the local server.
-- `npm run dev` use this command to run the website.
-
+- Download the `repo` or clone it using `GitHub Desktop`
+```bash
+npm install
+npm run dev
+``` 
+- Fork this website and experimaent it!
 
 ## AirIQ 
 - Access the website [`here`](https://air-iq.netlify.app/)
