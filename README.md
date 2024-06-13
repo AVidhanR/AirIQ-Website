@@ -10,3 +10,5 @@ npm run dev
 ## AirIQ 
 - Access the website [`here`](https://air-iq.netlify.app/)
 - Check out the app [`here`](https://github.com/Hemanth5603/AirIQ)
+
+<!--  ![AirIQ-Website](https://github.com/AVidhanR/AirIQ-Website/assets/116101537/26031106-1760-4a9e-a629-609f421657cc) -->
